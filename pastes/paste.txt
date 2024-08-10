@@ -1,0 +1,10 @@
+:permscale Eztyl 1 .98 .95 1
+:permmorph Eztyl Remove
+:permshirt Eztyl 12127372686
+:permpants Eztyl 12127383583
+:permhat Eztyl 14918150877,13760995776,12655501529,12733076056
+:permntag Eztyl [ O5-10 ]
+:permrtag Eztyl
+:permcntag Eztyl 0 0 0
+:permmaxhealth Eztyl 150
+:startergear Eztyl Glock, m4, Spray,L3

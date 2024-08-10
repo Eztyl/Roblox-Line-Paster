@@ -1,0 +1,8 @@
+:team Eztyl Class
+:permscale Eztyl 1 .98 .95 1 
+:permshirt Eztyl 180294748
+:permpants Eztyl 460301989
+:permhat Eztyl 14700659587
+:permntag Eztyl "Aria"
+:permrtag Eztyl Verified OC | "Aria Stone" | Class-D | Janitor
+:startergear Eztyl radio,clipboard,broom,L2
